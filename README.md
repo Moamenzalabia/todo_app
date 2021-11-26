@@ -2,9 +2,8 @@
 
 A new Flutter project.
 
-- A simple minimalist ad free app that's works totally offline, made for the users who just want to have a simple app for storing their to do task and hate to have the fancy alarms and all functionality that they never use.
-- As it don't require any account sign in or anything so in general it is the simplest work ticker without any compromise on privacy.
-This app works totally offline so no worries about data leaks or something.
+- A simple ad-free app that works totally offline, made for the users who just want to have a simple app for storing their to-do tasks and hate to have fancy alarms and all functionality that they never use.
+- As it doesn't require any account sign-in or anything so in general, it is the simplest work ticker without any compromise on privacy. This app works totally offline so no worries about data leaks or something.
 
 ## Tech Stacks Used
 
@@ -13,14 +12,14 @@ This app works totally offline so no worries about data leaks or something.
  UI | Inspired from a dribble post 
  framework | Flutter
  state management | Provider Package
- database | sqflite
+ database | SQLite
  app icons | Canva
 
 ## Features
 
 - Add a task by clicking the plus button
-- Add a task to Archived tasks list clicking the Archive button
-- Add a task to Done tasks list clicking the Done button
+- Add a task to the Archived tasks list by clicking the Archive button
+- Add a task to the Done tasks list by clicking the Done button
 - Ability to change the default theme for the whole app (coming soon)
 
 ## Screen Shots
